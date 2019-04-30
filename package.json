@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peterkhayes/pitchfinder.git"
+    "url": "git+https://github.com/voodoohop/pitchfinder.git"
   },
   "keywords": [
     "pitch",
@@ -22,16 +22,16 @@
     "find",
     "YIN",
     "AMDF",
-    "autocorrelation",
+    "autocorrelation",  
     "music",
     "audio"
   ],
   "author": "Peter Hayes",
   "license": "GNU v3",
   "bugs": {
-    "url": "https://github.com/peterkhayes/pitchfinder/issues"
+    "url": "https://github.com/voodoohop/pitchfinder/issues"
   },
-  "homepage": "https://github.com/peterkhayes/pitchfinder#readme",
+  "homepage": "https://github.com/voodoohop/pitchfinder#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^6.0.2",
