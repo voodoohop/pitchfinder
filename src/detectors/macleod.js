@@ -26,7 +26,7 @@ module.exports = function(config) {
    * Pitch annotations below this threshold are considered invalid, they are
    * ignored.
    */
-  const LOWER_PITCH_CUTOFF = 80;
+  const LOWER_PITCH_CUTOFF = 10;
 
   /**
    * Defines the relative size the chosen peak (pitch) has.
